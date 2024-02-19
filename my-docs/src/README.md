@@ -5,18 +5,6 @@
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://8.9.78.biscuilt.top/sign?key=biscuit
-```
-
-```sh
-http://api.dengfenglai.cloud:8978/sign?key=DF
-```
-
-```sh
-http://8.140.254.159:10001/sign?key=114514
-```
-
-```sh
 https://1.QSign.icu?key=XxxX
 ```
 
@@ -37,7 +25,35 @@ https://5.QSign.icu?key=XxxX
 ```
 
 ```sh
+https://qsign.wuliya.icu/8978?key=wuliya
+```
+
+```sh
 http://qsign.angryrabbit.cn/8978?key=114514
+```
+
+```sh
+http://qsign.angryrabbit.cn/8978X?key=114514
+```
+
+```sh
+http://qsign.pippi.top/8978?key=yui
+```
+
+```sh
+https://8.9.78.admilk.top?key=Admilk
+```
+
+```sh
+http://114.132.243.116:10078?key=bcgu
+```
+
+```sh
+http://47.108.180.154:8978?key=114514
+```
+
+```sh
+http://222.186.10.233:38978/?key=Y
 ```
 </details>
 
@@ -53,11 +69,15 @@ http://qsign.angryrabbit.cn/8983?key=114514
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://8.9.85.biscuilt.top?key=biscuit
+http://qsign.angryrabbit.cn/8985?key=114514
 ```
 
 ```sh
-http://8.140.254.159:10045?key=114514
+http://hkfrp.115832958.xyz:27860?key=114514
+```
+
+```sh
+http://47.108.180.154:8985?key=114514
 ```
 </details>
 
@@ -65,7 +85,7 @@ http://8.140.254.159:10045?key=114514
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://8.9.88.biscuilt.top/sign?key=biscuit
+https://qsign.wuliya.icu/8988?key=wuliya
 ```
 
 ```sh
@@ -73,7 +93,15 @@ http://cn-hk-bgp-4.openfrp.top:33486?key=114514
 ```
 
 ```sh
-http://8.140.254.159:10049/sign?key=114514
+http://qsign.angryrabbit.cn/8988?key=114514
+```
+
+```sh
+https://8.9.88.admilk.top?key=Admilk
+```
+
+```sh
+http://47.108.180.154:8988?key=114514
 ```
 </details>
 
@@ -81,7 +109,11 @@ http://8.140.254.159:10049/sign?key=114514
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://8.9.90.biscuilt.top/sign?key=biscuit
+http://qsign.angryrabbit.cn/8990?key=114514
+```
+
+```sh
+http://47.108.180.154:8990?key=114514
 ```
 </details>
 
@@ -89,11 +121,19 @@ http://8.9.90.biscuilt.top/sign?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://8.9.93.biscuilt.top/sign?key=biscuit
+http://qsign.angryrabbit.cn/8993?key=114514
 ```
 
 ```sh
-https://sign.sjtpab.tk/8993?key=1
+http://47.108.180.154:8993?key=114514
+```
+</details>
+
+### 8.9.96签名
+<details markdown='1'><summary>展开/收起</summary>
+
+```sh
+https://qsign.wuliya.icu/8996?key=wuliya
 ```
 </details>
 
@@ -101,7 +141,7 @@ https://sign.sjtpab.tk/8993?key=1
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-https://sign.sjtpab.tk/900?key=1
+http://qsign.angryrabbit.cn/900?key=114514
 ```
 </details>
 
@@ -109,7 +149,19 @@ https://sign.sjtpab.tk/900?key=1
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-https://sign.sjtpab.tk/908?key=1
+http://qsign.angryrabbit.cn/908?key=114514
+```
+
+```sh
+http://47.108.180.154:908?key=114514
+```
+</details>
+
+### 9.0.17签名
+<details markdown='1'><summary>展开/收起</summary>
+
+```sh
+http://47.108.180.154:9017?key=114514
 ```
 </details>
 
@@ -122,6 +174,12 @@ https://sign.sjtpab.tk/908?key=1
 
 
 ## 感谢签名提供者
+- [@寒暄](https://gitee.com/haanxuan)
 - [@重装小兔](https://gitee.com/OvertimeBunny)
-- [@饼干姐姐](https://gitee.com/Yummy-cookie)
 - [@时雨🌌星空](https://gitee.com/TimeRainStarSky)
+- [@咕咕咕](https://gitee.com/zzwh12)
+- [@白菜](https://gitee.com/chinese-cabbage-xzy)
+- [@Admilk](https://gitee.com/adrae)
+- [@catboss](https://gitee.com/catbos)
+- [@云溪院](https://gitee.com/yunxiyuan/)
+- [@鱼鱼](https://gitee.com/wang-langwdck/)

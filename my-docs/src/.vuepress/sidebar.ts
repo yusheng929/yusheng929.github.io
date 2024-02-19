@@ -13,7 +13,7 @@ export default sidebar({
       text: "配置Miao-Yunzai",
       icon: "laptop-code",
       prefix: "./yunzai.md",
-      link: "/Yunzai",
+      link: "/yunzai",
       children: "structure",
     },
   ],
