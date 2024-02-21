@@ -45,6 +45,10 @@ https://8.9.78.admilk.top?key=Admilk
 ```
 
 ```sh
+https://qsignluoyu-api1.hf.space/8978?key=luoyu
+```
+
+```sh
 http://114.132.243.116:10078?key=bcgu
 ```
 
@@ -63,6 +67,10 @@ http://222.186.10.233:38978/?key=Y
 ```sh
 http://qsign.angryrabbit.cn/8983?key=114514
 ```
+
+```sh
+https://qsignluoyu-api1.hf.space/8983?key=luoyu
+```
 </details>
 
 ### 8.9.85签名[ICQQ 0.6.2+]
@@ -78,6 +86,10 @@ http://hkfrp.115832958.xyz:27860?key=114514
 
 ```sh
 http://47.108.180.154:8985?key=114514
+```
+
+```sh
+https://qsignluoyu-api1.hf.space/8985?key=luoyu
 ```
 </details>
 
@@ -103,6 +115,10 @@ https://8.9.88.admilk.top?key=Admilk
 ```sh
 http://47.108.180.154:8988?key=114514
 ```
+
+```sh
+https://qsignluoyu-api1.hf.space/8988?key=luoyu
+```
 </details>
 
 ### 8.9.90签名[ICQQ 0.6.3+]
@@ -114,6 +130,10 @@ http://qsign.angryrabbit.cn/8990?key=114514
 
 ```sh
 http://47.108.180.154:8990?key=114514
+```
+
+```sh
+https://qsignluoyu-api1.hf.space/8990?key=luoyu
 ```
 </details>
 
@@ -135,6 +155,10 @@ http://47.108.180.154:8993?key=114514
 ```sh
 https://qsign.wuliya.icu/8996?key=wuliya
 ```
+
+```sh
+https://qsignluoyu-api1.hf.space/8996?key=luoyu
+```
 </details>
 
 ### 9.0.0签名[ICQQ 0.6.6+]
@@ -142,6 +166,10 @@ https://qsign.wuliya.icu/8996?key=wuliya
 
 ```sh
 http://qsign.angryrabbit.cn/900?key=114514
+```
+
+```sh
+https://qsignluoyu-api1.hf.space/9000?key=luoyu
 ```
 </details>
 
@@ -155,6 +183,18 @@ http://qsign.angryrabbit.cn/908?key=114514
 ```sh
 http://47.108.180.154:908?key=114514
 ```
+
+```sh
+https://qsignluoyu-api1.hf.space/9080?key=luoyu
+```
+</details>
+
+### 9.0.15签名
+<details markdown='1'><summary>展开/收起</summary>
+
+```sh
+http://qsignluoyu-api1.hf.space/9015/?key=luoyu
+```
 </details>
 
 ### 9.0.17签名
@@ -162,6 +202,10 @@ http://47.108.180.154:908?key=114514
 
 ```sh
 http://47.108.180.154:9017?key=114514
+```
+
+```sh
+http://qsignluoyu-api1.hf.space/9017/?key=luoyu
 ```
 </details>
 
@@ -184,3 +228,4 @@ http://47.108.180.154:9017?key=114514
 - [@云溪院](https://gitee.com/yunxiyuan/)
 - [@鱼鱼](https://gitee.com/wang-langwdck/)
 - [@wuliya](https://github.com/shiwuliya)
+- [@落雨天阳](https://gitee.com/luoyutianyang)
