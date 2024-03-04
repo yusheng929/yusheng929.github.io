@@ -5,26 +5,6 @@
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-https://1.QSign.icu?key=XxxX
-```
-
-```sh
-https://2.QSign.icu?key=XxxX
-```
-
-```sh
-https://3.QSign.icu?key=XxxX
-```
-
-```sh
-https://4.QSign.icu?key=XxxX
-```
-
-```sh
-https://5.QSign.icu?key=XxxX
-```
-
-```sh
 https://qsign.wuliya.icu/8978?key=wuliya
 ```
 
@@ -42,10 +22,6 @@ http://qsign.pippi.top/8978?key=yui
 
 ```sh
 https://8.9.78.admilk.top?key=Admilk
-```
-
-```sh
-https://qsignluoyu-api1.hf.space/8978?key=luoyu
 ```
 
 ```sh
@@ -71,10 +47,6 @@ http://8.9.78.biscuilt.top?key=biscuit
 ```sh
 http://qsign.angryrabbit.cn/8983?key=114514
 ```
-
-```sh
-https://qsignluoyu-api1.hf.space/8983?key=luoyu
-```
 </details>
 
 ### 8.9.85签名[ICQQ 0.6.2+]
@@ -90,10 +62,6 @@ http://hkfrp.115832958.xyz:27860?key=114514
 
 ```sh
 http://47.108.180.154:8985?key=114514
-```
-
-```sh
-https://qsignluoyu-api1.hf.space/8985?key=luoyu
 ```
 
 ```sh
@@ -125,10 +93,6 @@ http://47.108.180.154:8988?key=114514
 ```
 
 ```sh
-https://qsignluoyu-api1.hf.space/8988?key=luoyu
-```
-
-```sh
 http://8.9.88.biscuilt.top?key=biscuit
 ```
 </details>
@@ -142,10 +106,6 @@ http://qsign.angryrabbit.cn/8990?key=114514
 
 ```sh
 http://47.108.180.154:8990?key=114514
-```
-
-```sh
-https://qsignluoyu-api1.hf.space/8990?key=luoyu
 ```
 
 ```sh
@@ -175,10 +135,6 @@ http://8.9.93.biscuilt.top?key=biscuit
 ```sh
 https://qsign.wuliya.icu/8996?key=wuliya
 ```
-
-```sh
-https://qsignluoyu-api1.hf.space/8996?key=luoyu
-```
 </details>
 
 ### 9.0.0签名[ICQQ 0.6.6+]
@@ -186,10 +142,6 @@ https://qsignluoyu-api1.hf.space/8996?key=luoyu
 
 ```sh
 http://qsign.angryrabbit.cn/900?key=114514
-```
-
-```sh
-https://qsignluoyu-api1.hf.space/9000?key=luoyu
 ```
 
 ```sh
@@ -208,10 +160,6 @@ http://47.108.180.154:908?key=114514
 ```
 
 ```sh
-https://qsignluoyu-api1.hf.space/9080?key=luoyu
-```
-
-```sh
 http://9.0.8.biscuilt.top?key=biscuit
 ```
 </details>
@@ -220,11 +168,8 @@ http://9.0.8.biscuilt.top?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://qsignluoyu-api1.hf.space/9015/?key=luoyu
-```
-
-```sh
 http://9.0.15.biscuilt.top?key=biscuit
+```
 </details>
 
 ### 9.0.17签名
@@ -232,10 +177,6 @@ http://9.0.15.biscuilt.top?key=biscuit
 
 ```sh
 http://47.108.180.154:9017?key=114514
-```
-
-```sh
-http://qsignluoyu-api1.hf.space/9017/?key=luoyu
 ```
 
 ```sh
@@ -252,7 +193,6 @@ http://9.0.17.biscuilt.top?key=biscuit
 
 
 ## 感谢签名提供者
-- [@寒暄](https://gitee.com/haanxuan)
 - [@重装小兔](https://gitee.com/OvertimeBunny)
 - [@时雨🌌星空](https://gitee.com/TimeRainStarSky)
 - [@咕咕咕](https://gitee.com/zzwh12)
@@ -262,5 +202,4 @@ http://9.0.17.biscuilt.top?key=biscuit
 - [@云溪院](https://gitee.com/yunxiyuan/)
 - [@鱼鱼](https://gitee.com/wang-langwdck/)
 - [@wuliya](https://github.com/shiwuliya)
-- [@落雨天阳](https://gitee.com/luoyutianyang)
 - [@饼干姐姐](https://xn--fwt286fa722s.cn/)
