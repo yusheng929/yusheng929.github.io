@@ -59,6 +59,10 @@ http://47.108.180.154:8978?key=114514
 ```sh
 http://222.186.10.233:38978/?key=Y
 ```
+
+```sh
+http://8.9.78.biscuilt.top?key=biscuit
+```
 </details>
 
 ### 8.9.83签名
@@ -91,6 +95,10 @@ http://47.108.180.154:8985?key=114514
 ```sh
 https://qsignluoyu-api1.hf.space/8985?key=luoyu
 ```
+
+```sh
+http://8.9.85.biscuilt.top?key=biscuit
+```
 </details>
 
 ### 8.9.88签名[ICQQ 0.6.2+]
@@ -119,6 +127,10 @@ http://47.108.180.154:8988?key=114514
 ```sh
 https://qsignluoyu-api1.hf.space/8988?key=luoyu
 ```
+
+```sh
+http://8.9.88.biscuilt.top?key=biscuit
+```
 </details>
 
 ### 8.9.90签名[ICQQ 0.6.3+]
@@ -135,6 +147,10 @@ http://47.108.180.154:8990?key=114514
 ```sh
 https://qsignluoyu-api1.hf.space/8990?key=luoyu
 ```
+
+```sh
+http://8.9.90.biscuilt.top?key=biscuit
+```
 </details>
 
 ### 8.9.93签名[ICQQ 0.6.5+]
@@ -146,6 +162,10 @@ http://qsign.angryrabbit.cn/8993?key=114514
 
 ```sh
 http://47.108.180.154:8993?key=114514
+```
+
+```sh
+http://8.9.93.biscuilt.top?key=biscuit
 ```
 </details>
 
@@ -171,6 +191,9 @@ http://qsign.angryrabbit.cn/900?key=114514
 ```sh
 https://qsignluoyu-api1.hf.space/9000?key=luoyu
 ```
+
+```sh
+http://9.0.0.biscuilt.top?key=biscuit
 </details>
 
 ### 9.0.8签名[ICQQ 0.6.7+]
@@ -187,6 +210,10 @@ http://47.108.180.154:908?key=114514
 ```sh
 https://qsignluoyu-api1.hf.space/9080?key=luoyu
 ```
+
+```sh
+http://9.0.8.biscuilt.top?key=biscuit
+```
 </details>
 
 ### 9.0.15签名
@@ -195,6 +222,9 @@ https://qsignluoyu-api1.hf.space/9080?key=luoyu
 ```sh
 http://qsignluoyu-api1.hf.space/9015/?key=luoyu
 ```
+
+```sh
+http://9.0.15.biscuilt.top?key=biscuit
 </details>
 
 ### 9.0.17签名
@@ -206,6 +236,10 @@ http://47.108.180.154:9017?key=114514
 
 ```sh
 http://qsignluoyu-api1.hf.space/9017/?key=luoyu
+```
+
+```sh
+http://9.0.17.biscuilt.top?key=biscuit
 ```
 </details>
 
@@ -229,3 +263,4 @@ http://qsignluoyu-api1.hf.space/9017/?key=luoyu
 - [@鱼鱼](https://gitee.com/wang-langwdck/)
 - [@wuliya](https://github.com/shiwuliya)
 - [@落雨天阳](https://gitee.com/luoyutianyang)
+- [@饼干姐姐](https://xn--fwt286fa722s.cn/)
