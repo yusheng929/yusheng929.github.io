@@ -5,6 +5,26 @@
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
+http://1.QSign.icu?key=XxxX
+```
+
+```sh
+http://2.QSign.icu?key=XxxX
+```
+
+```sh
+http://3.QSign.icu?key=XxxX
+```
+
+```sh
+http://4.QSign.icu?key=XxxX
+```
+
+```sh
+http://5.QSign.icu?key=XxxX
+```
+
+```sh
 https://qsign.wuliya.icu/8978?key=wuliya
 ```
 
@@ -193,6 +213,7 @@ http://9.0.17.biscuilt.top?key=biscuit
 
 
 ## 感谢签名提供者
+- [@寒暄](https://gitee.com/haanxuan)
 - [@重装小兔](https://gitee.com/OvertimeBunny)
 - [@时雨🌌星空](https://gitee.com/TimeRainStarSky)
 - [@咕咕咕](https://gitee.com/zzwh12)
