@@ -25,19 +25,19 @@ http://5.QSign.icu?key=XxxX
 ```
 
 ```sh
-https://qsign.wuliya.icu/8978?key=wuliya
+https://qsign.wuliya.icu/8978/sign?key=wuliya
 ```
 
 ```sh
-http://qsign.angryrabbit.cn/8978?key=114514
+http://qsign.angryrabbit.cn/8978/sign?key=114514
 ```
 
 ```sh
-http://qsign.angryrabbit.cn/8978X?key=114514
+https://qsign.yuiqsign.icu/8978/sign?key=pippi
 ```
 
 ```sh
-http://qsign.pippi.top/8978?key=yui
+http://qsign.pippi.top/8978/sign?key=pippi
 ```
 
 ```sh
@@ -45,11 +45,11 @@ https://8.9.78.admilk.top?key=Admilk
 ```
 
 ```sh
-http://114.132.243.116:10078?key=bcgu
+http://47.108.180.154:8978?key=114514
 ```
 
 ```sh
-http://47.108.180.154:8978?key=114514
+http://47.95.22.15?key=114514
 ```
 
 ```sh
@@ -65,7 +65,7 @@ http://8.9.78.biscuilt.top?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://qsign.angryrabbit.cn/8983?key=114514
+http://qsign.angryrabbit.cn/8983/sign?key=114514
 ```
 </details>
 
@@ -73,7 +73,7 @@ http://qsign.angryrabbit.cn/8983?key=114514
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://qsign.angryrabbit.cn/8985?key=114514
+http://qsign.angryrabbit.cn/8985/sign?key=114514
 ```
 
 ```sh
@@ -93,7 +93,7 @@ http://8.9.85.biscuilt.top?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-https://qsign.wuliya.icu/8988?key=wuliya
+https://qsign.wuliya.icu/8988/sign?key=wuliya8996
 ```
 
 ```sh
@@ -153,7 +153,7 @@ http://8.9.93.biscuilt.top?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-https://qsign.wuliya.icu/8996?key=wuliya
+https://qsign.wuliya.icu/8996/sign?key=wuliya
 ```
 </details>
 
