@@ -3,17 +3,17 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     {
-      text: "公共QSign",
+      text: "首页",
       icon: "laptop-code",
       prefix: "README.md",
       link: "/",
       children: "structure",
     },
     {
-      text: "配置Miao-Yunzai",
+      text: "公共QSign文档",
       icon: "laptop-code",
-      prefix: "./yunzai.md",
-      link: "/yunzai",
+      prefix: "./API.md",
+      link: "/QSign",
       children: "structure",
     },
     {
