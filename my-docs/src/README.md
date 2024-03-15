@@ -11,7 +11,7 @@ actions:
     icon: signs-post
     type: primary
 
-  - text: 常见问题
+  - text: Q&A
     icon: lightbulb
     link: /qa
 
