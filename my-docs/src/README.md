@@ -2,9 +2,9 @@
 home: true
 title: 主页
 icon: home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://postimg.cc/Lq0MQDkC
 heroText: 
-tagline: 提供多种服务
+tagline: ⭕你的💰，然后跑路
 actions:
   - text: 开始
     link: /plugin

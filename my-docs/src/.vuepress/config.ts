@@ -4,8 +4,8 @@ import { hopeTheme } from "vuepress-theme-hope";
 export default defineUserConfig({
 
   lang: "zh-CN",
-  title: "帮助文档",
-  description: "vuepress-theme-hope 的博客演示",
+  title: "⭕💰跑路",
+  description: "⭕你的💰💰，然后跑路",
 
   theme: hopeTheme({
   hostname: "https://mister-hope.github.io",
@@ -17,7 +17,7 @@ export default defineUserConfig({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://postimg.cc/Lq0MQDkC",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
