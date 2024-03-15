@@ -103,5 +103,5 @@ export default defineUserConfig({
       vPre: true,
     },
   },
-});
+}),
 });
