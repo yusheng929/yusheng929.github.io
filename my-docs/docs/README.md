@@ -2,7 +2,7 @@
 home: true
 title: 主页
 icon: home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: https://i.postimg.cc/0Q92QHzs/Cache-7cace79470fc9c66.png
 heroText: 
 tagline: 提供多种服务
 actions:
