@@ -12,7 +12,7 @@ export default sidebar({
     {
       text: "公共QSign文档",
       icon: "laptop-code",
-      prefix: "./API.md",
+      prefix: "./QSign.md",
       link: "/QSign",
       children: "structure",
     },
