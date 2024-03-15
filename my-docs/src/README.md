@@ -13,11 +13,11 @@ actions:
 
   - text: 常见问题
     icon: lightbulb
-    link: /zh/guide/
+    link: /qa
 
   - text: 公共QSign
     icon: star
-    link: /QSign
+    link: /qsign
 
 features:
   - title: ⭕💰跑路插件
@@ -28,12 +28,12 @@ features:
   - title: 常见问题
     icon: person-chalkboard
     details: 懒得写，先咕咕咕
-    link: /QA
+    link: /qa
 
   - title: 公共QSign
     icon: object-group
     details: 提供免费公共的QSign
-    link: /QSign
+    link: /qsign
 
 copyright: false
 footer: MIT Licensed | Copyright © 2024-present 瑜笙

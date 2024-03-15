@@ -13,7 +13,7 @@ export default sidebar({
       text: "公共QSign文档",
       icon: "laptop-code",
       prefix: "./QSign.md",
-      link: "/QSign",
+      link: "/qsign",
       children: "structure",
     },
     {
