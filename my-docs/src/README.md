@@ -35,7 +35,7 @@ features:
     details: 提供免费公共的QSign
     link: /qsign
     
-    - title: 模块下载
+  - title: 模块下载
     icon: object-group
     details: 模块🐶狂喜
     link: http://mk.botqsign.icu
