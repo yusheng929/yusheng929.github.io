@@ -1,24 +1,10 @@
 ---
 home: true
-title: 功能项目主页
+title: 友链
 icon: home
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: VuePress Theme Hope
-tagline: 一个具有强大功能的 vuepress 主题✨
-actions:
-  - text: 快速上手
-    link: /zh/get-started/
-    icon: signs-post
-    type: primary
-
-  - text: 指南
-    icon: lightbulb
-    link: /zh/guide/
-
-  - text: 案例
-    icon: star
-    link: /zh/demo/
-
+heroImage: https://postimg.cc/Lq0MQDkC
+heroText: 友情链接
+tagline: 比较实用的一些网站
 features:
   - title: Markdown 增强
     icon: fab fa-markdown
