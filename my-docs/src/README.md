@@ -34,6 +34,16 @@ features:
     icon: object-group
     details: 提供免费公共的QSign
     link: /qsign
+    
+    - title: 模块下载
+    icon: object-group
+    details: 模块🐶狂喜
+    link: http://mk.botqsign.icu
+    
+  - title: 友情链接
+    icon: object-group
+    details: 提供实用的网站
+    link: /link
 
 copyright: false
 footer: MIT Licensed | Copyright © 2024-present 瑜笙
