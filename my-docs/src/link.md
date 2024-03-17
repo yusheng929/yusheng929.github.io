@@ -11,4 +11,6 @@ features:
     details: 热爱，所以行动，坚持，所以成功
     link: https://arcticfox.top
 
-<!-- markdownlint-disable -->
+copyright: false
+footer: MIT Licensed | Copyright © 2024-present 瑜笙
+---
