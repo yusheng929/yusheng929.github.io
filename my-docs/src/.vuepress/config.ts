@@ -19,7 +19,7 @@ export default defineUserConfig({
 
   logo: "https://postimg.cc/Lq0MQDkC",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "yusheng929/yusheng929.github.io",
 
   docsDir: "src",
 
