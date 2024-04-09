@@ -11,11 +11,15 @@
 </div>
 
 # 安装教程
-仅Gitee在Yzai根目录执行即可
-
+### 国内推荐:
 
 ``` bash
-git clone --depth=1 https://gitee.com/theqingyao/Circle-money-run-plugin ./plugins/Circle-money-run-plugin
+git clone --depth=1 https://mirror.ghproxy.com/https://github.com/yusheng929/Circle-money-run-plugin
+```
+### 国外推荐
+
+``` bash
+git clone --depth=1 https://github.com/yusheng929/Circle-money-run-plugin ./plugins/Circle-money-run-plugin
 ```
 
 # 当前功能
@@ -32,8 +36,8 @@ Yunzai-Bot/plugins/Circle-money-run-plugin/config
 - 也可以发issues
 
 # 联系方式
-### 唯一交流群:188796599
-> [QQ交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Si4z5XjASy3Wk5uiobKS0Opfh-7hH3ZX&authKey=vBQyO4ZODpTsPd6E%2BDqp%2FRarw7gg%2FSsvDNeYeu%2FnUTS8h73SItoUEa8iv2iG9ixq&noverify=0&group_code=188796599)
+### 唯一交流群:720290263
+> [QQ交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Qe8h4t5sN6Z-BXYwyRu4_onFEVPWbDFU&authKey=VSaEEJWdPr2InmoMt096mx8kCSbGVouzS%2F%2FBsZmrLgxLfS47LjT2VEnmJzBJRd%2FX&noverify=0&group_code=720290263)
 
 
 # 负责声明
