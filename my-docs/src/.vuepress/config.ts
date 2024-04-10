@@ -21,7 +21,7 @@ export default defineUserConfig({
 
   repo: "yusheng929/yusheng929.github.io",
 
-  docsDir: "src",
+  docsDir: "my-docs/src",
 
   navbar: [
   {
