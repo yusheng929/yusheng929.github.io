@@ -2,7 +2,7 @@
 home: true
 title: 主页
 icon: home
-heroImage: https://postimg.cc/Lq0MQDkC
+heroImage: https://api.botqsign.icu/logo
 heroText: 
 tagline: ⭕你的💰，然后跑路
 actions:

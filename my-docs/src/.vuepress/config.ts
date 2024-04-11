@@ -17,7 +17,7 @@ export default defineUserConfig({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://postimg.cc/Lq0MQDkC",
+  logo: "https://api.botqsign.icu/logo",
 
   repo: "yusheng929/yusheng929.github.io",
 
