@@ -25,23 +25,11 @@ http://5.QSign.icu?key=XxxX
 ```
 
 ```sh
-https://qsign.wuliya.icu/8978/sign?key=wuliya
-```
-
-```sh
 http://qsign.angryrabbit.cn/8978/sign?key=114514
 ```
 
 ```sh
-https://qsign.yuiqsign.icu/8978/sign?key=pippi
-```
-
-```sh
-http://qsign.pippi.top/8978/sign?key=pippi
-```
-
-```sh
-https://8.9.78.admilk.top?key=Admilk
+http://qsign.pippi.top?key=pippi
 ```
 
 ```sh
@@ -50,10 +38,6 @@ http://47.108.180.154:8978?key=114514
 
 ```sh
 http://47.95.22.15?key=114514
-```
-
-```sh
-http://222.186.10.233:38978/?key=Y
 ```
 
 ```sh
@@ -77,10 +61,6 @@ http://qsign.angryrabbit.cn/8985/sign?key=114514
 ```
 
 ```sh
-http://hkfrp.115832958.xyz:27860?key=114514
-```
-
-```sh
 http://47.108.180.154:8985?key=114514
 ```
 
@@ -93,19 +73,7 @@ http://8.9.85.biscuilt.top?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-https://qsign.wuliya.icu/8988/sign?key=wuliya8996
-```
-
-```sh
-http://cn-hk-bgp-4.openfrp.top:33486?key=114514
-```
-
-```sh
 http://qsign.angryrabbit.cn/8988?key=114514
-```
-
-```sh
-https://8.9.88.admilk.top?key=Admilk
 ```
 
 ```sh
@@ -152,9 +120,8 @@ http://8.9.93.biscuilt.top?key=biscuit
 ### 8.9.96签名
 <details markdown='1'><summary>展开/收起</summary>
 
-```sh
-https://qsign.wuliya.icu/8996/sign?key=wuliya
-```
+# 暂无
+
 </details>
 
 ### 9.0.0签名[ICQQ 0.6.6+]
@@ -220,7 +187,5 @@ http://9.0.17.biscuilt.top?key=biscuit
 - [@白菜](https://gitee.com/chinese-cabbage-xzy)
 - [@Admilk](https://gitee.com/adrae)
 - [@catboss](https://gitee.com/catbos)
-- [@云溪院](https://gitee.com/yunxiyuan/)
 - [@鱼鱼](https://gitee.com/wang-langwdck/)
-- [@wuliya](https://github.com/shiwuliya)
 - [@饼干姐姐](https://xn--fwt286fa722s.cn/)
