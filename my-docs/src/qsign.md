@@ -25,10 +25,6 @@ http://5.QSign.icu?key=XxxX
 ```
 
 ```sh
-http://qsign.angryrabbit.cn/8978/sign?key=114514
-```
-
-```sh
 http://qsign.pippi.top?key=pippi
 ```
 
@@ -48,17 +44,11 @@ http://8.9.78.biscuilt.top?key=biscuit
 ### 8.9.83签名
 <details markdown='1'><summary>展开/收起</summary>
 
-```sh
-http://qsign.angryrabbit.cn/8983/sign?key=114514
-```
+## 暂无
 </details>
 
 ### 8.9.85签名[ICQQ 0.6.2+]
 <details markdown='1'><summary>展开/收起</summary>
-
-```sh
-http://qsign.angryrabbit.cn/8985/sign?key=114514
-```
 
 ```sh
 http://47.108.180.154:8985?key=114514
@@ -73,10 +63,6 @@ http://8.9.85.biscuilt.top?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://qsign.angryrabbit.cn/8988?key=114514
-```
-
-```sh
 http://47.108.180.154:8988?key=114514
 ```
 
@@ -87,10 +73,6 @@ http://8.9.88.biscuilt.top?key=biscuit
 
 ### 8.9.90签名[ICQQ 0.6.3+]
 <details markdown='1'><summary>展开/收起</summary>
-
-```sh
-http://qsign.angryrabbit.cn/8990?key=114514
-```
 
 ```sh
 http://47.108.180.154:8990?key=114514
@@ -105,10 +87,6 @@ http://8.9.90.biscuilt.top?key=biscuit
 <details markdown='1'><summary>展开/收起</summary>
 
 ```sh
-http://qsign.angryrabbit.cn/8993?key=114514
-```
-
-```sh
 http://47.108.180.154:8993?key=114514
 ```
 
@@ -120,16 +98,12 @@ http://8.9.93.biscuilt.top?key=biscuit
 ### 8.9.96签名
 <details markdown='1'><summary>展开/收起</summary>
 
-# 暂无
+## 暂无
 
 </details>
 
 ### 9.0.0签名[ICQQ 0.6.6+]
 <details markdown='1'><summary>展开/收起</summary>
-
-```sh
-http://qsign.angryrabbit.cn/900?key=114514
-```
 
 ```sh
 http://9.0.0.biscuilt.top?key=biscuit
