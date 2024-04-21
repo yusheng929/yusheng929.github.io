@@ -41,12 +41,6 @@ http://8.9.78.biscuilt.top?key=biscuit
 ```
 </details>
 
-### 8.9.83签名
-<details markdown='1'><summary>展开/收起</summary>
-
-## 暂无
-</details>
-
 ### 8.9.85签名[ICQQ 0.6.2+]
 <details markdown='1'><summary>展开/收起</summary>
 
@@ -93,13 +87,6 @@ http://47.108.180.154:8993?key=114514
 ```sh
 http://8.9.93.biscuilt.top?key=biscuit
 ```
-</details>
-
-### 8.9.96签名
-<details markdown='1'><summary>展开/收起</summary>
-
-## 暂无
-
 </details>
 
 ### 9.0.0签名[ICQQ 0.6.6+]
