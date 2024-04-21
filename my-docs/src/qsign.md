@@ -1,5 +1,5 @@
-<h1 align="center">公共签名api</h1>
-<hr/>
+<div align="center">
+# 公共QSign
 
 ### 8.9.78签名[ICQQ 0.5.3+][非常推荐使用，稳定奔放]
 <details markdown='1'><summary>展开/收起</summary>
