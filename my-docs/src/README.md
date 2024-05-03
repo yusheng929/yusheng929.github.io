@@ -38,7 +38,7 @@ features:
   - title: 模块下载
     icon: object-group
     details: 模块🐶狂喜
-    link: http://mk.botqsign.icu
+    link: http://alist.botqsign.icu
     
   - title: 友情链接
     icon: object-group
