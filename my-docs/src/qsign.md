@@ -90,6 +90,10 @@ http://47.108.180.154:8993?key=114514
 ```sh
 http://8.9.93.biscuilt.top?key=biscuit
 ```
+
+```sh
+http://qsign.hoyolili.com:8993/sign?key=114514
+```
 </details>
 
 ### 9.0.0签名[ICQQ 0.6.6+]
