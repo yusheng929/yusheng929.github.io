@@ -24,6 +24,10 @@ git clone --depth=1 https://mirror.ghproxy.com/https://github.com/Circle-money-r
 ``` bash
 git clone --depth=1 https://github.com/Circle-money-run/Circle-money-run-plugin ./plugins/Circle-money-run-plugin
 ```
+## 安装依赖
+``` bash
+pnpm install --filter=Circle-money-run-plugin
+```
 
 # 当前功能
 ![HELP](http://api.botqsign.icu/bz)
