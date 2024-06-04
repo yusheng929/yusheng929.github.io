@@ -74,10 +74,6 @@ http://8.9.88.biscuilt.top?key=biscuit
 ```sh
 http://47.108.180.154:8990?key=114514
 ```
-
-```sh
-http://8.9.90.biscuilt.top?key=biscuit
-```
 </details>
 
 ### 8.9.93签名[ICQQ 0.6.5+]
@@ -88,55 +84,14 @@ http://47.108.180.154:8993?key=114514
 ```
 
 ```sh
-http://8.9.93.biscuilt.top?key=biscuit
-```
-
-```sh
 http://qsign.hoyolili.com:8993/sign?key=114514
 ```
 </details>
 
-### 9.0.0签名[ICQQ 0.6.6+]
+### 9x签名
 <details markdown='1'><summary>展开/收起</summary>
 
-```sh
-http://9.0.0.biscuilt.top?key=biscuit
-</details>
-
-### 9.0.8签名[ICQQ 0.6.7+]
-<details markdown='1'><summary>展开/收起</summary>
-
-```sh
-http://qsign.angryrabbit.cn/908?key=114514
-```
-
-```sh
-http://47.108.180.154:908?key=114514
-```
-
-```sh
-http://9.0.8.biscuilt.top?key=biscuit
-```
-</details>
-
-### 9.0.15签名
-<details markdown='1'><summary>展开/收起</summary>
-
-```sh
-http://9.0.15.biscuilt.top?key=biscuit
-```
-</details>
-
-### 9.0.17签名
-<details markdown='1'><summary>展开/收起</summary>
-
-```sh
-http://47.108.180.154:9017?key=114514
-```
-
-```sh
-http://9.0.17.biscuilt.top?key=biscuit
-```
+[9x签名请点我前往](https://qsign.icu/Yunzai.html)
 </details>
 
 <hr/>
