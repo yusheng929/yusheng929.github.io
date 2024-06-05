@@ -1,5 +1,11 @@
 # 公共QSign
 
+### 9x签名[非常推荐使用，稳定奔放]
+<details markdown='1'><summary>展开/收起</summary>
+
+[9x签名请点我前往](https://qsign.icu/Yunzai.html)
+</details>
+
 ### 8.9.78签名[ICQQ 0.5.3+]
 <details markdown='1'><summary>展开/收起</summary>
 
@@ -86,12 +92,6 @@ http://47.108.180.154:8993?key=114514
 ```sh
 http://qsign.hoyolili.com:8993/sign?key=114514
 ```
-</details>
-
-### 9x签名[非常推荐使用，稳定奔放]
-<details markdown='1'><summary>展开/收起</summary>
-
-[9x签名请点我前往](https://qsign.icu/Yunzai.html)
 </details>
 
 <hr/>
