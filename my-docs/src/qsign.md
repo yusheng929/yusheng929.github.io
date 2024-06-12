@@ -44,10 +44,6 @@ http://47.95.22.15?key=114514
 ```sh
 http://8.9.78.biscuilt.top?key=biscuit
 ```
-
-```sh
-http://47.108.91.92:8978?key=spark
-```
 </details>
 
 ### 8.9.85签名[ICQQ 0.6.2+]
@@ -112,4 +108,3 @@ http://qsign.hoyolili.com:8993/sign?key=114514
 - [@catboss](https://gitee.com/catbos)
 - [@鱼鱼](https://gitee.com/wang-langwdck/)
 - [@饼干姐姐](https://xn--fwt286fa722s.cn/)
-- [@逸燧](https://escaped.icu/)
