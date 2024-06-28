@@ -2,7 +2,7 @@
 
 # ⭕💰🏃🛣-plugin[停更中…]
 [![Gitee](https://img.shields.io/badge/Gitee-圈钱跑路-black?style=flat-square&logo=gitee)](https://gitee.com/Circle-money-run/Circle-money-run-plugin) [![GitHub](https://img.shields.io/badge/GitHub-圈钱跑路-black?style=flat-square&logo=github)](https://gitee.com/Circle-money-run/Circle-money-run-plugin) [![云崽bot](https://img.shields.io/badge/云崽-v3-black?style=flat-square&logo=dependabot)](https://gitee.com/Le-niao/Yunzai-Bot) [![喵崽](https://img.shields.io/badge/喵崽-v3-black?style=flat-square&logo=dependabot)](https://gitee.com/yoimiya-kokomi/Miao-Yunzai) <a href='https://gitee.com/Circle-money-run/Circle-money-run-plugin/stargazers'><img src='https://gitee.com/Circle-money-run/Circle-money-run-plugin/badge/star.svg?theme=dark' alt='star'></img></a><br>
-[![Group](https://img.shields.io/badge/QQ群-720290263-red?style=flat-square&logo=GroupMe&logoColor=white)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Qe8h4t5sN6Z-BXYwyRu4_onFEVPWbDFU&authKey=VSaEEJWdPr2InmoMt096mx8kCSbGVouzS%2F%2FBsZmrLgxLfS47LjT2VEnmJzBJRd%2FX&noverify=0&group_code=720290263) [![Group](https://img.shields.io/badge/TG群-圈钱跑路-red?style=flat-square&logo=telegram&logoColor=white)](https://t.me/quanqianpaolu)
+[![Group](https://img.shields.io/badge/TG群-圈钱跑路-red?style=flat-square&logo=telegram&logoColor=white)](https://t.me/quanqianpaolu)
 
 ![动态访问量](https://count.kjchmc.cn/get/@yusheng?theme=rule34)<br>
 
@@ -43,8 +43,7 @@ Yunzai-Bot/plugins/Circle-money-run-plugin/config
 - 也可以发issues
 
 # 联系方式
-### 唯一交流群: 720290263
-[点击加入交流群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Kfc0D0VsUCiKKNDkLilQVsHRRUp4Edjk&authKey=GYJzU%2B52TCv0pztI9YgCuB1MXQRtZO6I1z12spz5Hnk7fnZW7W4HKgfR5u6Q3LBJ&noverify=0&group_code=720290263)
+### 暂无
 
 # 负责声明
 - 功能仅限内部交流与小范围使用

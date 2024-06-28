@@ -50,7 +50,7 @@ export default defineUserConfig({
   {
     text: "联系方式",
     icon: "laptop-code",
-    link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Qe8h4t5sN6Z-BXYwyRu4_onFEVPWbDFU&authKey=VSaEEJWdPr2InmoMt096mx8kCSbGVouzS%2F%2FBsZmrLgxLfS47LjT2VEnmJzBJRd%2FX&noverify=0&group_code=720290263",
+    link: "https://t.me/quanqianpaolu",
   },
   ],
   sidebar: [
@@ -69,7 +69,7 @@ export default defineUserConfig({
   {
     text: "联系方式",
     icon: "laptop-code",
-    link: "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Qe8h4t5sN6Z-BXYwyRu4_onFEVPWbDFU&authKey=VSaEEJWdPr2InmoMt096mx8kCSbGVouzS%2F%2FBsZmrLgxLfS47LjT2VEnmJzBJRd%2FX&noverify=0&group_code=720290263",
+    link: "https://t.me/quanqianpaolu",
   },
   ],
 
