@@ -1,0 +1,27 @@
+#!/bin/bash
+
+clear
+
+Miao_url="https://gitee.com/yoimiya-kokomi/miao-plugin"
+pm2_file="config/pm2/pm2.json"
+
+current_time=$(date +"%Y-%m-%d %H:%M:%S")
+echo "$current_time"
+
+echo -e "\e[1;36m少女祈祷中...\e[0m"
+
+if [ ! -f "$pm2_file" ]; then
+  echo "请在Miao-Yunzai根目录执行"
+  exit 1
+fi
+
+echo -e "\e[1;35m-\e[0m \e[1;32m开始重置项目\e[0m"
+
+git reset --hard && git pull --rebase --allow-unrelated-histories
+
+echo -e "\e[1;36m少女祈祷中...\e[0m"
+    echo -e "\e[1;35m-\e[0m \e[1;32m开始克隆miao-plugin\e[0m"
+    git clone --depth=1 https://gitee.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin && pnpm i
+    echo -e "\e[1;35m-\e[0m \e[1;32m克隆完成\e[0m"
+
+exit
