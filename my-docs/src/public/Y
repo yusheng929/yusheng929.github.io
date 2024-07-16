@@ -19,9 +19,8 @@ echo -e "\e[1;35m-\e[0m \e[1;32m开始重置项目\e[0m"
 
 git reset --hard && git pull --rebase --allow-unrelated-histories
 
-echo -e "\e[1;36m少女祈祷中...\e[0m"
     echo -e "\e[1;35m-\e[0m \e[1;32m开始克隆miao-plugin\e[0m"
-    git clone --depth=1 https://gitee.com/yoimiya-kokomi/miao-plugin.git ./plugins/miao-plugin && pnpm i
+    git clone --depth=1 $Miao_url.git ./plugins/miao-plugin && pnpm i
     echo -e "\e[1;35m-\e[0m \e[1;32m克隆完成\e[0m"
 
 exit
