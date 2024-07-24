@@ -1,0 +1,37 @@
+#!/bin/bash
+
+clear
+
+echo -e "\e[1;32m请输入要扫描的绝对路径\e[0m"
+read -p "> " input_path
+
+echo -e "\e[1;36m 少女祈祷中...\e[0m"
+
+# 判断路径是否存在
+if [ -d "$input_path" ]; then
+    # 扫描路径下是否有名为node_modules的文件夹
+    node_modules_list=$(find "$input_path" -type d -name "node_modules" -prune)
+
+    if [ -n "$node_modules_list" ]; then
+        echo -e "\e[1;33m扫描到的 node_modules 文件夹\e[0m"
+        echo "$node_modules_list"
+        # 读取用户的选择，如果用户直接按回车，默认值为"y"
+        read -p "是否删除这些 node_modules 文件夹 (Y/n)? " -n 1 -r delete_choice
+        echo  # 换行
+
+        if [[ "$delete_choice" =~ ^[Yy]$ ]] || [ -z "$delete_choice" ]; then
+            for node_modules_path in $node_modules_list; do
+                echo -e "\e[1;31m删除\e[0m $node_modules_path"
+                rm -rf "$node_modules_path" && echo -e "$node_modules_path \e[1;32m删除成功\e[0m" || echo -e "$node_modules_path \e[1;31m删除失败\e[0m"
+            done
+        else
+            echo -e "\e[1;33m取消删除 node_modules 文件夹\e[0m"
+        fi
+    else
+        echo -e "\e[1;33m指定路径内没有 node_modules 文件夹\e[0m"
+    fi
+else
+    echo -e "\e[1;31m路径不存在：$input_path\e[0m"
+fi
+
+exit 0
